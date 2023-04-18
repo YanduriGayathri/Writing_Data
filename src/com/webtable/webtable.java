@@ -21,6 +21,11 @@ public class webtable {
 			WebElement bro =  d.findElement(By.xpath("//table[@id='contactList']/tbody/tr["+ i +"]"));
 			
 			System.out.println(bro.getText());
+			
+			System.out.println("this is gayathri");
+			System.out.println("worst  gayathri");
+			System.out.println("waste of time  gayathri");
+			System.out.println("bye bye bye  gayathri");
 
 }
 }
